@@ -1,1 +1,1 @@
-My first readme to updated on the grapgic interface
+My first readme to updated on the graphic interface
